@@ -1,8 +1,8 @@
-<table>
+<table border="0">
 <tr>
 <td valign="top">
 
-<img src="banner.png" width="620" alt="cybernetics"/>
+<img valign="center" src="banner.png" width="620" alt="cybernetics"/>
 
 </td>
 <td valign="top">
@@ -35,13 +35,6 @@
 // tools
   Rust . C++ . Python . LLVM/MLIR . Linux
 
-
-// links
-  -> shoryarawal.dev
-  -> github.com/ShoryaRawal
-
-
-> connection established._
 ```
 
 </td>

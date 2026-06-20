@@ -1,35 +1,85 @@
-<img align="left" src="cybernetics.png" width="320" alt="cybernetics" />
+<table>
+<tr>
+<td valign="top">
 
-## &gt; SHORYA RAWAL
-*building systems for intelligent systems.*
+```
+:--:-.----.--::--.-:.:---:--:-.--:.--.
+#=-:+#-**#=%+-***+%+**%+=.+*.#+*--=**=
+-==..= -==:==-=:-==.=-==-.:-.=:==-:==-
+...::........:....::.....:..:.....:..:
+     .     :=  ..-==  -+.
+    .=-:.  :+=..++.=:.==- .--.   ..
+     .:=:-=-:+=.=*.++=:=:--==-===+:
+     :=--:+=-=*+.+-+#-+=-====+==:..:.
+      .:-=+=====..-=*==+*++===--====:
+    .---:--=++++=-*##===:...--::..
+  ...---===+++++#@@@@*-----:.....
+  .=======++..:--#@@@*=-==++===-----.
+  .---=====+=++*:-=+*==*+=-*+==---:-.
+  .-::.:-==++=-=-******+*+=:.::-===.
+     :======--+---:*+--=-**==:.:=::.
+     .:----::+=:= :--:=++-=+===-::
+      ---:.-+*:=. :-+-.=----*::.
+       .  -+::::::-++:.   :-=:
+          ..:---:::::--=-: ..
+.::::::::::=*:++**%%##%##@=::::::::::.
+.========-+--#%@@@@@@@@#%*%=========-.
+.--------:+:#@%@@@@@@@@%-.*=---------.
+.-=====---*-#@@@@@@@@@@#- +-========-
+.---.--:--+**@@@@@@@@@@+.-+:::---:-::.
+.===.-=:-:*%+@@@@@@@@@@-=%+:-=---:-::.
+.===.------#++@@@@@@@%+:%+=--=-------
+.===.---::::=-%@@@@@@#-+--:---------:
+.---.-::..=-=-:-:::-==+=----:=-------
+    .::---:............ .::---::::::.
+    .:..                    .::.
+```
 
-**// focus**  
-→ compilers & language design  
-→ ai infrastructure / mlsys  
-→ systems programming (rust · c++)
+</td>
+<td valign="top">
 
-**// projects**  
-→ **[rxv6](https://github.com/ShoryaRawal/rxv6)** — rust os, xv6-inspired  
-→ **[emberc](https://github.com/ShoryaRawal/emberc)** — c-to-wasm compiler in rust  
-→ **[toy_scheme](https://github.com/ShoryaRawal/Toy_Scheme_Compiler)** — scheme compiler  
-→ **[fasm_server](https://github.com/ShoryaRawal/FASM_SERVER)** — web server in flat assembler
+```text
+> SHORYA RAWAL
+  building systems for intelligent systems._
 
-**// interested in**  
-→ operating systems & runtimes  
-→ webassembly  
-→ vision-language models  
-→ quantum informatics
 
-**// tools**  
-`Rust` `C++` `Python` `LLVM/MLIR` `Linux`
+// focus
+  -> compilers & language design
+  -> ai infrastructure / mlsys
+  -> systems programming (rust . c++)
 
-**// links**  
-→ [shoryarawal.dev](https://shoryarawal.dev)  
-→ [github.com/ShoryaRawal](https://github.com/ShoryaRawal)
+
+// projects
+  -> rxv6          rust os, xv6-inspired
+  -> emberc        c-to-wasm compiler, rust
+  -> toy_scheme    scheme compiler, frontend->codegen
+  -> fasm_server   web server in flat assembler
+
+
+// interested in
+  -> operating systems & runtimes
+  -> webassembly
+  -> vision-language models
+  -> quantum informatics
+
+
+// tools
+  Rust . C++ . Python . LLVM/MLIR . Linux
+
+
+// links
+  -> shoryarawal.dev
+  -> github.com/ShoryaRawal
+
 
 > connection established._
+```
 
-<br clear="left" />
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
@@ -38,5 +88,8 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ShoryaRawal)
 [![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=38BDF8)](https://github.com/ShoryaRawal)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/ShoryaRawal)
+
+[![Website](https://img.shields.io/badge/shoryarawal.dev-0A0A0A?style=for-the-badge&logo=internetarchive&logoColor=38BDF8)](https://shoryarawal.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/ShoryaRawal)
 
 </div>

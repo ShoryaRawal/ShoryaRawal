@@ -2,10 +2,11 @@
 <tr>
 <td valign="top">
 
-<img valign="center" src="banner.png" width="420" alt="cybernetics"/>
+<img valign="center" src="banner.png" width="220" height="300" alt="cybernetics"/>
 
 </td>
 <td valign="top">
+
 
 ```text
 > SHORYA RAWAL

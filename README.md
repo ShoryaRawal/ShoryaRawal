@@ -2,20 +2,20 @@
 <tr>
 <td valign="top">
 
-<img valign="center" src="banner.png" width="620" alt="cybernetics"/>
+<img valign="center" src="banner.png" width="420" alt="cybernetics"/>
 
 </td>
 <td valign="top">
 
 ```text
 > SHORYA RAWAL
-  building systems for intelligent systems._
+  building infrastructure for intelligent systems._
 
 
-// focus
+// Research focus
   -> compilers & language design
   -> ai infrastructure / mlsys
-  -> systems programming (rust . c++)
+  -> systems programming 
 
 
 // projects
@@ -24,16 +24,10 @@
   -> toy_scheme    scheme compiler, frontend->codegen
   -> fasm_server   web server in flat assembler
 
-
-// interested in
-  -> operating systems & runtimes
-  -> webassembly
-  -> vision-language models
-  -> quantum informatics
-
-
 // tools
-  Rust . C++ . Python . LLVM/MLIR . Linux
+  Rust . C/C++ . Go . Python . LLVM/MLIR
+  Linux . Harness Engineering . Machine Learning 
+  Deep Learning . LLMs . VLMs . ALMs
 
 ```
 

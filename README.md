@@ -1,10 +1,35 @@
-<div align="center">
+<img align="left" src="cybernetics.png" width="320" alt="cybernetics" />
 
-<img src="banner.svg" width="100%" alt="Shorya Rawal" />
+## &gt; SHORYA RAWAL
+*building systems for intelligent systems.*
 
-</div>
+**// focus**  
+→ compilers & language design  
+→ ai infrastructure / mlsys  
+→ systems programming (rust · c++)
 
-<br>
+**// projects**  
+→ **[rxv6](https://github.com/ShoryaRawal/rxv6)** — rust os, xv6-inspired  
+→ **[emberc](https://github.com/ShoryaRawal/emberc)** — c-to-wasm compiler in rust  
+→ **[toy_scheme](https://github.com/ShoryaRawal/Toy_Scheme_Compiler)** — scheme compiler  
+→ **[fasm_server](https://github.com/ShoryaRawal/FASM_SERVER)** — web server in flat assembler
+
+**// interested in**  
+→ operating systems & runtimes  
+→ webassembly  
+→ vision-language models  
+→ quantum informatics
+
+**// tools**  
+`Rust` `C++` `Python` `LLVM/MLIR` `Linux`
+
+**// links**  
+→ [shoryarawal.dev](https://shoryarawal.dev)  
+→ [github.com/ShoryaRawal](https://github.com/ShoryaRawal)
+
+> connection established._
+
+<br clear="left" />
 
 <div align="center">
 
@@ -13,8 +38,5 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ShoryaRawal)
 [![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=38BDF8)](https://github.com/ShoryaRawal)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/ShoryaRawal)
-
-[![Website](https://img.shields.io/badge/shoryarawal.dev-0A0A0A?style=for-the-badge&logo=internetarchive&logoColor=38BDF8)](https://shoryarawal.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/ShoryaRawal)
 
 </div>

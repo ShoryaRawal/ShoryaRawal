@@ -1,83 +1,8 @@
-<table>
-<tr>
-<td valign="top">
+<div align="center">
 
-```
-:--:-.----.--::--.-:.:---:--:-.--:.--.
-#=-:+#-**#=%+-***+%+**%+=.+*.#+*--=**=
--==..= -==:==-=:-==.=-==-.:-.=:==-:==-
-...::........:....::.....:..:.....:..:
-     .     :=  ..-==  -+.
-    .=-:.  :+=..++.=:.==- .--.   ..
-     .:=:-=-:+=.=*.++=:=:--==-===+:
-     :=--:+=-=*+.+-+#-+=-====+==:..:.
-      .:-=+=====..-=*==+*++===--====:
-    .---:--=++++=-*##===:...--::..
-  ...---===+++++#@@@@*-----:.....
-  .=======++..:--#@@@*=-==++===-----.
-  .---=====+=++*:-=+*==*+=-*+==---:-.
-  .-::.:-==++=-=-******+*+=:.::-===.
-     :======--+---:*+--=-**==:.:=::.
-     .:----::+=:= :--:=++-=+===-::
-      ---:.-+*:=. :-+-.=----*::.
-       .  -+::::::-++:.   :-=:
-          ..:---:::::--=-: ..
-.::::::::::=*:++**%%##%##@=::::::::::.
-.========-+--#%@@@@@@@@#%*%=========-.
-.--------:+:#@%@@@@@@@@%-.*=---------.
-.-=====---*-#@@@@@@@@@@#- +-========-
-.---.--:--+**@@@@@@@@@@+.-+:::---:-::.
-.===.-=:-:*%+@@@@@@@@@@-=%+:-=---:-::.
-.===.------#++@@@@@@@%+:%+=--=-------
-.===.---::::=-%@@@@@@#-+--:---------:
-.---.-::..=-=-:-:::-==+=----:=-------
-    .::---:............ .::---::::::.
-    .:..                    .::.
-```
+<img src="banner.svg" width="100%" alt="Shorya Rawal" />
 
-</td>
-<td valign="top">
-
-```text
-> SHORYA RAWAL
-  building systems for intelligent systems._
-
-
-// focus
-  -> compilers & language design
-  -> ai infrastructure / mlsys
-  -> systems programming (rust . c++)
-
-
-// projects
-  -> rxv6          rust os, xv6-inspired
-  -> emberc        c-to-wasm compiler, rust
-  -> toy_scheme    scheme compiler, frontend->codegen
-  -> fasm_server   web server in flat assembler
-
-
-// interested in
-  -> operating systems & runtimes
-  -> webassembly
-  -> vision-language models
-  -> quantum informatics
-
-
-// tools
-  Rust . C++ . Python . LLVM/MLIR . Linux
-
-
-// links
-  -> shoryarawal.dev
-  -> github.com/ShoryaRawal
-
-
-> connection established._
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 

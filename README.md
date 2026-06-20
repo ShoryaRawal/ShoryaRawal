@@ -40,9 +40,6 @@
 [![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=38BDF8)](https://github.com/ShoryaRawal)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/ShoryaRawal)
 
-[![Website](https://img.shields.io/badge/shoryarawal.dev-0A0A0A?style=for-the-badge&logo=internetarchive&logoColor=38BDF8)](https://shoryarawal.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/ShoryaRawal)
-
 </div>
 </td>
 </tr>
